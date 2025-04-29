@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Script name: Simple HTTP Server
+# Script name: Simple-HTTP-Server.py
 # Version: 1.0.0
 # Description: A Python script to upload and save multiple files locally via a simple web page.
 # Dependencies: Flask
